@@ -6,6 +6,10 @@ Discipline_atletas Varchar(1000)
 
 
 
+
+
+
+
 CREATE TABLE coaches (
 Name_coaches Varchar(1000),
 Noc_coaches Varchar(1000),
